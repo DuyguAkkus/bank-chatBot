@@ -1,0 +1,17 @@
+yvenv/
+# Python cache files
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# MacOS specific files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
